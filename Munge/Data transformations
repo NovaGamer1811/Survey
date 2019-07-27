@@ -1,0 +1,5 @@
+Created table "sales_genre" with columns: "Genre", "Global_Sales", "Critic_Score"
+Loaded "sales" into "sales_genre"
+Rounded data in "Global_Sales" column
+Fitered "Critic_Score" that is Greater than "0"
+Ordered "Critic_Score" column to highest to lowest
