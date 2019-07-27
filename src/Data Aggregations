@@ -1,0 +1,9 @@
+Created table "average_critic_score_sports" with column "Sports_Critic_Score"
+Loaded data into "sports_critic_score"
+Created table "average_critic_score_shooter" with column "Shooter_Critic_Score"
+Loaded data into "Shooter_Critic_Score"
+Created table "all_games" with columns “average_global_sales”, “min_global_sales”, “max_global_sales”
+Created table "sports_games" with columns “average_global_sales”, “min_global_sales”, “max_global_sales”
+Created table "shooter_games" with columns “average_global_sales”, “min_global_sales”, “max_global_sales”
+Created table "global_sales_sports" with columns “global_sales”, “count”
+Created table "global_sales_shooter" with columns “global_sales”, “count”
